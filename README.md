@@ -1,6 +1,6 @@
 # Project Structure
 ```
-.
+Volleyball-Objects-Tracking
 ├── requirements
 │   └── base.txt - all basic requirements for the project
 ├── videos
